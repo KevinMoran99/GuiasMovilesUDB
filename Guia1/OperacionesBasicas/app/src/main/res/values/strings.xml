@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OperacionesBasicas</string>
+    <string name="first">Operando 1</string>
+    <string name="second">Operando 2</string>
+    <string name="add">Sumar</string>
+    <string name="subtract">Restar</string>
+    <string name="multiply">Multiplicar</string>
+    <string name="divide">Dividir</string>
+    <string name="not_valid">La operación no computa con los operandos indicados</string>
+    <string name="result">El resultado es: %1$s</string>
+</resources>
