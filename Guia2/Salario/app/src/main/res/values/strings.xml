@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Salario</string>
+    <string name="name">Nombre</string>
+    <string name="hours">Horas trabajadas</string>
+    <string name="calc">Calcular salario</string>
+    <string name="not_valid">Ingrese valores válidos</string>
+    <string name="base_wage">Salario Base: $%1$s</string>
+    <string name="isss">ISSS: $%1$s</string>
+    <string name="afp">AFP: $%1$s</string>
+    <string name="rent">Renta: $%1$s</string>
+    <string name="net_wage">Salario Neto: $%1$s</string>
+</resources>
